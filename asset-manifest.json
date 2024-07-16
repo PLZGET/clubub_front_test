@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.71d6e13c.css",
+    "main.js": "/static/js/main.296605b4.js",
+    "static/media/uno.png": "/static/media/uno.4575ac8e7ecf2b54fa00.png",
+    "static/media/game.jpg": "/static/media/game.f441f79700dde516246b.jpg",
+    "static/media/profile.jpeg": "/static/media/profile.996ea5ac0278d4031a02.jpeg",
+    "static/media/boardgame.png": "/static/media/boardgame.0b9ca4ddf8886e91c7c5.png",
+    "static/media/propyl.png": "/static/media/propyl.5c96752be26be6926f47.png",
+    "static/media/google_login2.svg": "/static/media/google_login2.2050b30538d0f54bb739.svg",
+    "static/media/member4.png": "/static/media/member4.987ccdbd9a721f96c745.png",
+    "index.html": "/index.html",
+    "main.71d6e13c.css.map": "/static/css/main.71d6e13c.css.map",
+    "main.296605b4.js.map": "/static/js/main.296605b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71d6e13c.css",
+    "static/js/main.296605b4.js"
+  ]
+}
